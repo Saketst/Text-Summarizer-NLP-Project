@@ -1,4 +1,4 @@
-==> 2023-05-29 04:04:25 <==
+==> 2023-05-29 04:40:44 <==
 # cmd: C:\Users\Lucky\.conda\envs\tensorflow\Scripts\conda-script.py create -p venv python==3.8 -y
 # conda version: 4.14.0
 +defaults/win-64::ca-certificates-2023.01.10-haa95532_0
